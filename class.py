@@ -2,9 +2,13 @@ class Yanhuangzisun():
     hair = 'black'
     skin = 'yellow'
     chinese = True
-    def xuemaijuexing(self,words):
+
+    def xuemaijuexing(self, words):
         print(words)
+
+
 qinwang = Yanhuangzisun()
+
 print(qinwang.hair)
 print(qinwang.skin)
 print(qinwang.chinese)
