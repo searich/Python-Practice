@@ -24,7 +24,6 @@ def numberlist(x, y, z):
     return list
 
 
-
 i = 0
 
 while i < 6:
